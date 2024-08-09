@@ -1,8 +1,9 @@
 # BPLoggerPremium
 > [+] For 30$ you get over 20+ new options that dont come with the free version of BPLogger
 
-
-• Some of those options are
+BUY ON https://t.me/BPLogger
+================================================================================
+•  PREMIUM FEATURES
 
 Remote Desktop
 
