@@ -16,5 +16,5 @@ UAC Bypass,
 System Info,
 and Elevate Client Permissions
 
-If you would like to purchase the premium version of BPLogger.
-Join Our Telegram https://t.me/BPLogger
+BUY ON https://t.me/BPLogger
+================================================================================
