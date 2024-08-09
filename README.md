@@ -13,11 +13,11 @@ Hidden File
 
 Hidden Process
 
-Hidden Startup
+Hidden Startup (Hidden)
 
-Roblox Cookie Logger
+Roblox Cookie Logger (Refreshes it, makes sure it does not die) (Checks robux amount automatically)
 
-Minecraft Session Stealer
+Minecraft Session Stealer (Refreshes it, makes sure it does not die)
 
 Download & Execute
 
@@ -27,4 +27,4 @@ UAC Bypass
 
 System Info
 
-and Elevate Client Permissions
+Elevate Client Permissions
