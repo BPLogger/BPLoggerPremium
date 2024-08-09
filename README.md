@@ -14,7 +14,7 @@ Download & Execute,
 Upload & Execute,
 UAC Bypass,
 System Info,
-Elevate Client Permissions,
+and Elevate Client Permissions
 
-If you would like to purchase the premium version of BPLogger
+If you would like to purchase the premium version of BPLogger.
 Join Our Telegram https://t.me/BPLogger
