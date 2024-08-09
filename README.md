@@ -28,3 +28,5 @@ UAC Bypass (Windows User Account Control Bypass, Files wont receive a smartscree
 System Information
 
 Elevate Client Permissions
+![image](https://github.com/user-attachments/assets/f4a02c8e-8760-45f3-afb1-7c93b83c03aa)
+
