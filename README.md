@@ -7,7 +7,7 @@ BUY ON https://t.me/BPLogger
 
 Remote Desktop
 
-File Manager
+File Manager / Uploader
 
 Hidden File
 
@@ -19,12 +19,12 @@ Roblox Cookie Logger (Refreshes it, makes sure it does not die) (Checks robux am
 
 Minecraft Session Stealer (Refreshes it, makes sure it does not die)
 
-Download & Execute
+Download & Execute Files
 
-Upload & Execute
+Upload & Execute Files
 
-UAC Bypass
+UAC Bypass (Windows User Account Control Bypass, Files wont receive a smartscreen that you run on the clients computer)
 
-System Info
+System Information
 
 Elevate Client Permissions
