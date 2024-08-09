@@ -1,5 +1,5 @@
 # BPLoggerPremium
-> [+] For 30$ you get over 20+ new options that dont come with the free version of BPLogger
+> For $30 you get over 20+ new options that don't come with the free version of BPLogger
 
 BUY ON https://t.me/BPLogger
 ================================================================================
