@@ -13,7 +13,7 @@ Hidden File
 
 Hidden Process
 
-Hidden Startup (Hidden)
+Hidden Startup (Wont show up on task manager)
 
 Roblox Cookie Logger (Refreshes it, makes sure it does not die) (Checks robux amount automatically)
 
